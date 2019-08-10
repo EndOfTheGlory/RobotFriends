@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'A Charming Font Expanded';
+font-style: normal;
+font-weight: normal;
+src: local('A Charming Font Expanded'), url('Achafexp.woff') format('woff');
+}
+
+h1{
+	font-family: 'A Charming Font Expanded';
+	font-weight: 1000;
+	color: #AA8E39;
+}
